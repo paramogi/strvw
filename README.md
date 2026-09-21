@@ -15,5 +15,5 @@ See examples.c for the rest.
 
 ## Trivia
 
-Q: WTH is this name??? You are so bad at naming things!!
+Q: WTH is this name??? You are so bad at naming things!! \
 A: The only cool name that isn't taken that one can possible make from the word StringView. Trust me, I know cool names. I *mastered* in it
